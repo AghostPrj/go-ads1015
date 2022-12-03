@@ -31,7 +31,7 @@ d, err := ads1015.RunComparatorInput0()
 }
 ```
 
-详细使用方法参考 [ads1015_test.go](./pkg/go_ads1015/ads1015_test.go)  
+详细使用方法参考 [ads1015_test.go](./ads1015_test.go)  
 
 
 
